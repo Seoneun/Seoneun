@@ -1,4 +1,4 @@
-<div align="center"> ![zen152's github stats](https://github-readme-stats.vercel.app/api?username=Seoneun&show_icons=true&theme=radical) </div>
+![zen152's github stats](https://github-readme-stats.vercel.app/api?username=Seoneun&show_icons=true&theme=radical)
 
 
 
