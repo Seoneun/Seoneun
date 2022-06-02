@@ -1,4 +1,3 @@
-### Hi there 👋
 ![zen152's github stats](https://github-readme-stats.vercel.app/api?username=Seoneun&show_icons=true)
 
 <!--
