@@ -1,5 +1,5 @@
 ### Hi there 👋
-![zen152's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+![zen152's github stats](https://github-readme-stats.vercel.app/api?username=Seoneun&show_icons=true)
 
 <!--
 **Seoneun/Seoneun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
